@@ -1,3 +1,23 @@
+
+
+## We are going to create components 
+1. Search with button component
+2. Image viewer  {} after calling the api 
+    How to call api by passing the textfield value  
+3. Followers component Grid
+
+
+
+
+// lifecycle 
+
+// we will also learn how to call apis in react js 
+api.github.com/users/{dunamicusername from serch box}
+api.github.com/users/{dunamicusername from serch box}/followers
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
